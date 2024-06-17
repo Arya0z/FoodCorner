@@ -1,0 +1,17 @@
+.scrollmenu-container {
+    overflow-x: auto;
+    white-space: nowrap;
+    -webkit-owerflow-scrolling: touch;
+   
+  }
+  
+  .scrollmenu {
+    display: flex;
+   flex-wrap: nowrap;
+  }
+  
+  .scrollmenu .card {
+    min-width: 250px;
+    margin-right: 15px;
+  }
+   
